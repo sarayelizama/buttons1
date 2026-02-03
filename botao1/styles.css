@@ -11,7 +11,7 @@ body { font-family: 'Roboto', sans-serif;
 
 .glow-btn {
     font-size: 1.5rem;
-    color: #fff;
+    color: #fgf;
     padding: 15px 30px;
     margin: 10px;
     border: 2px solid #e23f8b;
@@ -47,4 +47,5 @@ body { font-family: 'Roboto', sans-serif;
 
 .glow-btn:active {
     transform: scale(0.95);
+
 }
